@@ -36,11 +36,8 @@ repositories. Happy to walk through it on request.
 
 ## Contributions
 
-Most of my work ships in private client repositories, so the public graph only tells part of the
-story — the counters below include private contributions.
-
-[![Shadrach's GitHub stats](https://github-readme-stats.vercel.app/api?username=Okekeshadrach&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true)](https://github.com/Okekeshadrach)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Okekeshadrach&layout=compact&langs_count=6&hide=hack&hide_border=true&count_private=true)](https://github.com/Okekeshadrach)
+Most of my work ships in private client repositories, so my public commit graph shows only a slice of
+it. Over the last year: **429 contributions**, the majority in private client work.
 
 **Recent focus**
 
