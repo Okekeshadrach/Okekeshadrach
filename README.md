@@ -31,8 +31,18 @@ idempotent purchases, automatic refunds and a Filament admin panel.
 Storefront and separate API/admin service covering catalogue, cart, orders and site settings.
 `Laravel · Filament · Sanctum`
 
-Some of my recent client work (hospitality booking platforms, a field survey app) is in private
-repositories. Happy to walk through it on request.
+**Fansibly — creator subscription platform** *(private, team repo)*
+Core contributor on a creator monetisation platform: subscriptions, pay-per-view media, wallets and
+payouts, real-time messaging. I built the manager console, the creator CRM and fan lists, the earnings
+dashboard, and the fan-profile and smart-list features.
+`Next.js · TypeScript · Express · PostgreSQL · Redis · Socket.IO · S3-compatible storage`
+
+**Trading & wallet platform** *(private, team repo)*
+Contributor on the wallet side: deposits, withdrawals and balance conversion, plus risk-control fixes.
+`Laravel · Blade · MySQL`
+
+Client and team work (creator platform, hospitality booking systems, wallet platforms, a field survey
+app) lives in private repositories. Happy to walk through any of it on request.
 
 ## Contributions
 
@@ -42,6 +52,7 @@ it. Over the last year: **429 contributions**, the majority in private client wo
 **Recent focus**
 
 - AI employee platform — business brain, agent pipeline, permissions and audit (TypeScript, Next.js, Express)
+- Creator monetisation platform — manager console, CRM, earnings, real-time messaging (Next.js, Express, Socket.IO)
 - Hospitality booking and management systems for clients (Next.js, Express, PostgreSQL, Redis, Docker)
 - Payments and subscriptions — wallets, gateway integrations, idempotent purchases (Laravel, Filament)
 - Mobile field-survey app (Flutter, Firebase)
