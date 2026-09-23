@@ -34,6 +34,21 @@ Storefront and separate API/admin service covering catalogue, cart, orders and s
 Some of my recent client work (hospitality booking platforms, a field survey app) is in private
 repositories. Happy to walk through it on request.
 
+## Contributions
+
+Most of my work ships in private client repositories, so the public graph only tells part of the
+story — the counters below include private contributions.
+
+[![Shadrach's GitHub stats](https://github-readme-stats.vercel.app/api?username=Okekeshadrach&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true)](https://github.com/Okekeshadrach)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Okekeshadrach&layout=compact&langs_count=6&hide=hack&hide_border=true&count_private=true)](https://github.com/Okekeshadrach)
+
+**Recent focus**
+
+- AI employee platform — business brain, agent pipeline, permissions and audit (TypeScript, Next.js, Express)
+- Hospitality booking and management systems for clients (Next.js, Express, PostgreSQL, Redis, Docker)
+- Payments and subscriptions — wallets, gateway integrations, idempotent purchases (Laravel, Filament)
+- Mobile field-survey app (Flutter, Firebase)
+
 ## Contact
 
 - GitHub: [@Okekeshadrach](https://github.com/Okekeshadrach)
