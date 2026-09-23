@@ -32,9 +32,11 @@ Storefront and separate API/admin service covering catalogue, cart, orders and s
 `Laravel · Filament · Sanctum`
 
 **Fansibly — creator subscription platform** *(private, team repo)*
-Core contributor on a creator monetisation platform: subscriptions, pay-per-view media, wallets and
-payouts, real-time messaging. I built the manager console, the creator CRM and fan lists, the earnings
-dashboard, and the fan-profile and smart-list features.
+Lead contributor on a creator monetisation platform. I built the creator experience end to end —
+public profile pages, onboarding, dashboard, post creation and scheduling queue, media vault, live,
+messaging, insights and settings — plus the agency/manager console (creator switcher, CRM, fan lists,
+earnings) and admin tooling. Also subscriptions and access control, payout destinations and 2FA,
+cursor-paged messaging, and Redis-backed feed performance work.
 `Next.js · TypeScript · Express · PostgreSQL · Redis · Socket.IO · S3-compatible storage`
 
 **Trading & wallet platform** *(private, team repo)*
@@ -52,7 +54,7 @@ it. Over the last year: **429 contributions**, the majority in private client wo
 **Recent focus**
 
 - AI employee platform — business brain, agent pipeline, permissions and audit (TypeScript, Next.js, Express)
-- Creator monetisation platform — manager console, CRM, earnings, real-time messaging (Next.js, Express, Socket.IO)
+- Creator monetisation platform — creator pages, agency console, subscriptions, payouts, real-time messaging (Next.js, Express, Socket.IO)
 - Hospitality booking and management systems for clients (Next.js, Express, PostgreSQL, Redis, Docker)
 - Payments and subscriptions — wallets, gateway integrations, idempotent purchases (Laravel, Filament)
 - Mobile field-survey app (Flutter, Firebase)
