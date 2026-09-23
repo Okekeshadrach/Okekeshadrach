@@ -39,12 +39,17 @@ earnings) and admin tooling. Also subscriptions and access control, payout desti
 cursor-paged messaging, and Redis-backed feed performance work.
 `Next.js · TypeScript · Express · PostgreSQL · Redis · Socket.IO · S3-compatible storage`
 
+**[Averroes Hospitality](https://averroesng.com) — hotel booking & operations platform** *(private, client work)*
+Live at [averroesng.com](https://averroesng.com). Guest booking portal plus a staff dashboard covering
+rooms and rates, reservations, housekeeping, maintenance, invoicing and reports, with role-based access
+and real-time updates.
+`Next.js · TypeScript · Express · PostgreSQL · Redis · Socket.IO · Docker`
+
 **Trading & wallet platform** *(private, team repo)*
 Contributor on the wallet side: deposits, withdrawals and balance conversion, plus risk-control fixes.
 `Laravel · Blade · MySQL`
 
-Client and team work (creator platform, hospitality booking systems, wallet platforms, a field survey
-app) lives in private repositories. Happy to walk through any of it on request.
+The code for these lives in private repositories. Happy to walk through any of it on request.
 
 ## Contributions
 
